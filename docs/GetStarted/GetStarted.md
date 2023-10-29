@@ -86,3 +86,10 @@ firewall-cmd --reload
 #### 4.扫描二维码添加到播客APP（如：AntennaPod）
 
 <img src="../images/AntennaPod-1.jpg" alt="链接地址" style="zoom:25%;" /><img src="../images/AntennaPod-2.jpg" alt="AntennaPod-2" style="zoom:25%;" />
+
+## 播客APP
+
+<a href="https://www.apple.com/apple-podcasts/" target="_blank">
+              <img src="https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large.png" width="35" alt="Apple Podcasts">
+            </a><a href="https://podcastaddict.com/" target="_blank"><img title="Podcast Addict" alt="Podcast Addict" src="https://pod.link/assets/apps/podcastaddict.svg" width="35"></a>  <a href="https://antennapod.org/" target="_blank">
+              <img src="https://antennapod.org/assets/branding/logo-full-horizontal-dynamic.svg" width="230" alt="AntennaPod">          </a>
