@@ -48,8 +48,8 @@ firewall-cmd --reload
 
 | 网站 <img width=200/>            | 名称<img width=200/> | 版本<img width=200/> | 下载地址<img width=200/>                                     |
 | :------------------------------- | -------------------- | -------------------- | ------------------------------------------------------------ |
-| [干净世界](https://ganjing.com/) | ganjing              | 1.2.1                | [点击下载](https://raw.githubusercontent.com/yajuhua/plugin/master/ganjing/Ganjing3-1.2.1-jar-with-dependencies.jar) |
-| [ntdm](https://www.ntdm.tv)              | ntdm8                | 1.2.1                | [点击下载](blob:https://github.com/e2ad0b0e-d240-4a17-a04a-dd6ada162b46) |
+| [干净世界](https://ganjing.com/) | ganjing              | 1.2.1                | [点击下载](https://github.com/yajuhua/plugin/raw/master/ganjing/Ganjing3-1.2.1-jar-with-dependencies.jar) |
+| [ntdm](https://www.ntdm.tv)              | ntdm8                | 1.2.1                | [点击下载](https://github.com/yajuhua/plugin/raw/master/ntdm8/ntdm8-1.2.1-jar-with-dependencies.jar) |
 
 #### 2.进入管理页面
 
@@ -93,3 +93,8 @@ firewall-cmd --reload
               <img src="https://www.apple.com/v/apple-podcasts/c/images/overview/hero_icon__c135x5gz14mu_large.png" width="35" alt="Apple Podcasts">
             </a><a href="https://podcastaddict.com/" target="_blank"><img title="Podcast Addict" alt="Podcast Addict" src="https://pod.link/assets/apps/podcastaddict.svg" width="35"></a>  <a href="https://antennapod.org/" target="_blank">
               <img src="https://antennapod.org/assets/branding/logo-full-horizontal-dynamic.svg" width="230" alt="AntennaPod">          </a>
+
+## 免责声明
+
+**此项目仅供研究、学习和交流，请勿用于商业或非法用途， 开发者与协作者不对使用者负任何法律责任， 使用者自行承担因不当使用所产生的后果与责任。**
+
