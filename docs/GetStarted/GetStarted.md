@@ -15,6 +15,7 @@ cd ~/podcast2
 docker run -id --name=podcast2 \
 --restart=always \
 -p 8088:8088 \
+-v ~/podcast2/init:/opt/tomcat/tomcat8/webapps/podcast2/init/ \
 -v ~/podcast2/xml:/opt/tomcat/tomcat8/webapps/podcast2/xml/ \
 -v ~/podcast2/video:/opt/tomcat/tomcat8/webapps/podcast2/video/ \
 -v ~/podcast2/audio:/opt/tomcat/tomcat8/webapps/podcast2/audio/ \
