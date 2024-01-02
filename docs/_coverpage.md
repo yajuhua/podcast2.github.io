@@ -11,5 +11,5 @@
 - 自定义插件
 - Docker部署
 
-[GitHub](https://github.com/yajuhua/podcast2_1/)
+[GitHub](https://github.com/yajuhua/podcast2/)
 [快速开始](GetStarted/GetStarted)
