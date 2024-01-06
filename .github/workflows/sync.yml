@@ -10,9 +10,9 @@ name: Sync yajuhua/podcast2/README.md
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '*/2 * * * *'
-
+#  schedule:
+#    - cron: '*/6 * * * *'
+#定时任务至少5分钟一次
 jobs:
   build:
 
