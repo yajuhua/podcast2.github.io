@@ -3,7 +3,7 @@
 <!-- ![logo](975x975-logo.001.png) -->
 <img src="./images/975x975-logo.001.png" width="20%" height="20%"> 
 
-# Podcast2 <small>1.3.2</small>
+# Podcast2 <small>![tu](https://img.shields.io/github/v/release/yajuhua/podcast2?style=flat-square&label=)</small>
 
 > 将视频网站转换成播客！
 
