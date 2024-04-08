@@ -59,6 +59,7 @@ cert  config  database  logs  plugin  resources  tmp
 ## 更新podcast2
 > 数据保留
 ````shell
+# 目前只有测试版,请移步到 https://github.com/yajuhua/podcast2/releases 查看最新测试版
 # 停止容器
 docker stop podcast2
 
@@ -66,17 +67,17 @@ docker stop podcast2
 docker rm podcast2
 
 # 删除本地镜像
-docker rmi yajuhua/podcast2:latest
+docker rmi yajuhua/podcast2:版本号
 
 # 拉取最新镜像
-docker pull yajuhua/podcast2:latest
+docker pull yajuhua/podcast2:版本号
 
 #创建新的容器
 docker run -id --name=podcast2 \
 -p 8088:8088 \
 --restart=always \
 --mount source=podcast2,destination=/data \
-yajuhua/podcast2:目前只有测试版,请移步到 https://github.com/yajuhua/podcast2/releases 查看最新测试版
+yajuhua/podcast2:版本号
 
 ````
 ## 插件bug或失效
