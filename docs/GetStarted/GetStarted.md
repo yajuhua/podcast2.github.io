@@ -16,7 +16,7 @@ docker run -id --name=podcast2 \
 -p 8088:8088 \
 --restart=always \
 --mount source=podcast2,destination=/data \
-yajuhua/podcast2:yajuhua/podcast2:版本号
+yajuhua/podcast2:版本号
 ````
 
 #### 3.防火墙放行8088端口
