@@ -10,13 +10,12 @@ curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh && system
 #### 2.创建并启动容器
 
 ````shell
-# 目前只有测试版,请移步到 https://github.com/yajuhua/podcast2/releases 查看最新测试版
 docker volume create podcast2
 docker run -id --name=podcast2 \
 -p 8088:8088 \
 --restart=always \
 --mount source=podcast2,destination=/data \
-yajuhua/podcast2:版本号
+yajuhua/podcast2:latest
 ````
 
 #### 3.防火墙放行8088端口
