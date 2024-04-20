@@ -21,7 +21,7 @@ docker run -id --name=podcast2 \
 -v ~/podcast2/audio:/opt/tomcat/tomcat8/webapps/podcast2/audio/ \
 -v ~/podcast2/plugin:/opt/tomcat/tomcat8/webapps/podcast2/plugin/ \
 -v ~/podcast2/logs:/logs \
-yajuhua/podcast2:1.3.3
+yajuhua/podcast2:v1.3.3
 ````
 #### 创建并启动容器(https)
 ```shell
@@ -47,7 +47,7 @@ docker run -id --name=podcast2 \
 -v ~/podcast2/audio:/opt/tomcat/tomcat8/webapps/podcast2/audio/ \
 -v ~/podcast2/plugin:/opt/tomcat/tomcat8/webapps/podcast2/plugin/ \
 -v ~/podcast2/logs:/logs \
-yajuhua/podcast2:1.3.3
+yajuhua/podcast2:v1.3.3
 ```
 
 #### 3.防火墙放行8088端口
