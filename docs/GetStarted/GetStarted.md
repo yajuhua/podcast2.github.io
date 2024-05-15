@@ -54,15 +54,16 @@ chmod -R a+x platform
 ## 安装插件
 > 项目默认是没有添加插件的，自行按需添加
 ## 支持网站
-| 网站 <img width=200/>                          |                                                                                            
-|:---------------------------------------------|
-| [干净世界](https://ganjing.com/)                 |
-| [vimeo](https://vimeo.com.com/)              |
-| [ntdm](https://www.ntdm.tv)                  |
-| [girigirilove](https://www.girigirilove.com) |
-| [youtube](https://www.youtube.com)           |
-| [bilibili](https://www.bilibili.com)         |
-| [抖音](https://www.douyin.com/)                |
+| 网站 <img width=200/>                          | 状态                                                                                             |
+|:---------------------------------------------|------------------------------------------------------------------------------------------------|
+| [干净世界](https://ganjing.com/)                 | <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-ganjing.yml/badge.svg"   />  |
+| [vimeo](https://vimeo.com/)                  |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-vimeo.yml/badge.svg"   />     |
+| [ntdm](https://www.ntdm.tv)                  |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-ntdm.yml/badge.svg"     />    |
+| [girigirilove](https://www.girigirilove.com) |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-girigirilove.yml/badge.svg" />| 
+| [youtube](https://www.youtube.com)           |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-youtube.yml/badge.svg"   />   | 
+| [bilibili](https://www.bilibili.com)         |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-bilibili.yml/badge.svg"  />   | 
+| [抖音](https://www.douyin.com/)                |  <img src="https://github.com/yajuhua/podcast2/actions/workflows/plugin-status-douyin.yml/badge.svg"    />   | 
+
 
 1. 安装插件
 ![安装插件](../images/installPlugin.png)
