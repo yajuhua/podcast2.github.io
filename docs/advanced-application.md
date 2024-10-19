@@ -54,3 +54,16 @@
 ### 最近30集
 最多下载最近30集节目，但不一定有30集。
 
+## Caddy 开启 HTTPS
+> 需要掌握Caddy的基本用法
+>
+### Caddyfile
+```text
+  你的域名 {
+	reverse_proxy localhost:8088
+} 
+```
+### podcast2自定义附件域名
+![custom-domain-name](./images/custom-domain-name.png)
+
+
