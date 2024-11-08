@@ -1,28 +1,6 @@
 
 ## 兼容性
-
 > v1.x.x 与 v2.x.x 不兼容
-
-## 哔哩哔哩设置
-
-> 风控太严，只能选择授权的方式，参考 [Web端Cookie刷新](https://socialsisteryi.github.io/bilibili-API-collect/docs/login/cookie_refresh.html)。
-
-### 打开浏览器登录哔哩哔哩
-
-![登录哔哩哔哩](../images/b-login.png)
-
-### 复制cookie
-
-![复制cookie](../images/b-cookie.png)
-
-### 复制ac_time_value
-
-![复制ac_time_value](../images/ac_time_value.png)
-
-### 注意
-
-这样子相当于登录了，复制后要清理哔哩哔哩浏览器记录，否则会与本插件冲突。
-<br>
 
 
 ## 忘记密码
