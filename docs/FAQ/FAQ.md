@@ -127,11 +127,7 @@ docker run -id --name=podcast2 \
 --mount source=podcast2,destination=/data \
 yajuhua/podcast2:latest
 ```
-## Invidious API
-yt-dlp可能会出现[Sign in to confirm you’re not a bot. This helps protect our community](https://github.com/yt-dlp/yt-dlp/issues/10128)导致无法下载的情况。
-目前只能通过设置invidious API进行下载，下面是invidious API列表，找一个能有用的设置即可。
-- https://redirect.invidious.io/
-- https://api.invidious.io/
+
 ## 项目在线更新
 podcast2 v2.4.0开始支持在线更新，国内需要设置代理，也可以直接Github加速站。
 ![设置GitHub加速站](../images/githubProxy.jpg)
